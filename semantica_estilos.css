@@ -1,0 +1,32 @@
+body {
+     font-family:'Times New Roman', Times, serif;
+     background-color: pink;
+     } 
+     header, footer {
+         background-color: palevioletred;
+         color:rgb(45, 42, 63);
+         text-align: left; 
+         padding:0cqmin;
+         }    
+         nav {
+            background-color: lightpink;
+            padding:0cqmin;
+             display:flexbox; 
+             justify-content:left;
+             gap:initial;
+             } 
+         nav a {
+             text-decoration:rgb(129, 30, 50);
+             color: rgb(218, 65, 103);
+             font-weight: bold;
+    } 
+    main {
+        padding:0ch;
+        display:inline;
+         gap:unset;
+     }
+strong {
+        color: rgb(255, 0, 179); 
+    }
+         
+                
